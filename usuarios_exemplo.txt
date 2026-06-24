@@ -3,5 +3,5 @@
 # Linhas começando com # são ignoradas
 # ─────────────────────────────────────
 joao:betfair2025
-maria:under12
+maria:under123
 pedro:projecao99
