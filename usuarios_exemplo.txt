@@ -1,0 +1,7 @@
+# Lista de usuários autorizados
+# Formato: usuario:senha  (uma por linha)
+# Linhas começando com # são ignoradas
+# ─────────────────────────────────────
+joao:betfair2025
+maria:under123
+pedro:projecao99
